@@ -51,6 +51,7 @@ POST /forecast - form: file + date_column, target, horizon
 ------------------------------------------------------------
 Contact
 ------------------------------------------------------------
-Baibhav Ghosh
+Baibhab Ghosh
 Email: baibhabghosh2003@gmail.com
 GitHub: https://github.com/MonGeR-B/AI-BusinessInsight-Dashboard
+
