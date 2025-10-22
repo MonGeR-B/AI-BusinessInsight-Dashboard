@@ -12,7 +12,7 @@ import json
 import uuid
 import openai
 
-app = FastAPI(title="Investor-Connect Backend (Day4)")
+app = FastAPI(title="Investor-Connect Backend")
 
 app.add_middleware(
     CORSMiddleware,
